@@ -1,0 +1,17 @@
+
+¯
+java:S3577"ŒRename class "AccountCreate" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(«ßË®ýÿÿÿÿ8ÈÀ»áô/
+:
+java:S5786"Remove this 'public' modifier.(¶ªæ8ÉÀ»áô/
+@
+java:S5786"Remove this 'public' modifier.(«ßË®ýÿÿÿÿ8ÉÀ»áô/
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+I
+java:S2699"-Add at least one assertion to this test case.(¶ªæ8ËÀ»áô/
